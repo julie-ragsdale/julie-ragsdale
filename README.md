@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m a UI/UX web developer who combines technical expertise with a strong sense of design. My goal is to create user experiences that are intuitive, visually appealing, and rooted in thoughtful interaction. Inspired by art and the natural world, I approach each project with a detail-oriented mindset and a love for creativity. Outside of tech, I enjoy aerial arts, sewing, and time outdoors.
+
 <!--
 **julie-ragsdale/julie-ragsdale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Newly recovered from a period of burnout, I'm back at it with a mission to create an online store for my art. 
